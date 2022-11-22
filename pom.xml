@@ -25,6 +25,11 @@
     <artifactId>servlet-api</artifactId>
     <version>2.5</version>
 </dependency>
+ <dependency>
+  <groupId>io.harness.cf</groupId>
+  <artifactId>cf-client-sdk-java</artifactId>
+  <version>1.0.4</version>
+</dependency>
 </dependencies>
 <distributionManagement>
   <repository>
